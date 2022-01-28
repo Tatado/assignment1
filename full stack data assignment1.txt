@@ -1,0 +1,63 @@
+1.
+expresions
+
+values
+
+values
+
+expressions
+
+expressions
+
+expressions
+
+values
+
+2.
+
+Strings is a value representing text.Strings always start and ends with quotes.whereas variable is a name that can refer to any value.Variablescan be integers,string,boolean.
+
+3.
+
+integers,boolean,floating numbers
+
+4.
+
+Expressions are combinations of values,variables,operators and calls to functions.Expressions evalute ie reduce to a single value.
+
+5.
+
+Expressions is a combination of values,operators and variables that gives a result value.example'1+3'.Statements represent an action or command.eg,print  statement ,assignment statement.
+
+6.
+
+it will give the set of 22
+it will ask for assingnment statement ie bacon =bacon+1
+
+7.
+
+"spamspamspam"
+"spamspamspam"
+
+8.
+
+that is because variable name cannot begin with a number. 
+
+9.
+int(),float()andstr()will evalute to the interger,whereas floating pointnumber and string versions will passed to them.
+
+10.
+
+Because 99 is an integer.so the correct way is 'i have eaten'+str(99)+'burritos'.
+
+
+
+
+
+
+
+
+
+
+
+
